@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on
-[Dream Maker Inc.](http://dreamaker.biz)
+[ureca enterprise corp.](https://ureca.im)
+as CEO.
 
 
 - 🌱 I’m currently learning
@@ -28,7 +29,6 @@ Here are some ideas to get you started:
 
   - DevOps
     - <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-    - <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
     - <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
 <!--
