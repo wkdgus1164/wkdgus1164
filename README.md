@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on
-[ureca enterprise corp.](https://ureca.im)
+[ureca enterprise corp.](https://github.com/ureca-corp)
 as CEO.
 
 
-- 🌱 I’m currently learning
-  - <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+- 🌱 I’m currently working on
+  - <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"/>
   - <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   - <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
 
@@ -28,7 +28,7 @@ as CEO.
     - <img src="https://img.shields.io/badge/sass-1572B6?style=flat-square&logo=Sass&logoColor=white"/>
 
   - DevOps
-    - <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+    - <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"/>
     - <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
 <!--
